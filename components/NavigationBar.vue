@@ -10,7 +10,7 @@
       </div>
       <!-- logo image ninja-svelte.png -->
       <NuxtLink to="/">
-        <img class="h-10 w-14" src="ninja-svelte.png" />
+        <img class="h-10" src="iawibia-scribble.png" />
       </NuxtLink>
     </div>
     <LiveClock class="flex items-center text-white" />
